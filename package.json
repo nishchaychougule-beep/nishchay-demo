@@ -1,0 +1,13 @@
+{
+  "name": "nishchay-demo",
+  "version": "1.0.0",
+  "description": "My first Git repository",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["git", "demo"],
+  "author": "nishchaychougule-beep",
+  "license": "MIT"
+}
