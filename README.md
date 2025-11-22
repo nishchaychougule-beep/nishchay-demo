@@ -9,6 +9,7 @@ This repository contains a basic Node.js application demonstrating fundamental c
 ## Prerequisites
 
 Before running this project, ensure you have:
+
 - Node.js (v14 or higher) installed
 - npm (Node Package Manager) installed
 - Git installed on your system
@@ -16,12 +17,14 @@ Before running this project, ensure you have:
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/nishchaychougule-beep/nishchay-demo.git
 cd nishchay-demo
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
@@ -29,21 +32,24 @@ npm install
 ## Running the Project
 
 To start the project, use:
+
 ```bash
 npm start
 ```
 
 Or for development mode with auto-reload:
+
 ```bash
 npm run dev
 ```
 
 ## Project Structure
 
-```
+```txt
 nishchay-demo/
 ├── README.md
 ├── package.json
+├── index.html
 ├── src/
 │   └── index.js
 └── .git/
